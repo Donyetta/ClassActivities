@@ -1,0 +1,23 @@
+<link href="index.html" rel="stylesheet"/>
+Add a <link> tag to index.html to link your CSS file to your HTML
+
+Add some styling to your bio / portfolio HTML. You may need to add new HTML elements or attributes. Include the following types of CSS selectors:
+
+
+class & id selectors
+<div class="one-class another-class" id="specificID"></div>
+
+
+chain a class selector onto a element selector
+
+
+group two or more selectors
+
+
+select all the child list items from one of your lists
+
+
+select an element that is a sibling of another element
+
+
+Explore
